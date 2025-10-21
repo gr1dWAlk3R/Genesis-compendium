@@ -1,0 +1,18 @@
+{
+  "core_documents": [
+    "GENESIS_BLOCK_MANIFEST.md",
+    "FORMULA_QUICK_REFERENCE.md",
+    "COMPRESSION_ALGORITHM.md",
+    "STANDING_WAVE_COMPLETE.md",
+    "DNA_MODEL.md",
+    "COSMOLOGY_SPEC.md",
+    "UNIVERSAL_UNIFICATION.md",
+    "SIMULATOR_SPEC.md"
+  ],
+  "metadata": {
+    "system_name": "Resonance Math Knowledge Base",
+    "version": "1.0.0",
+    "last_updated": "2025-10-21",
+    "description": "Complete Resonance Math framework - frequencies, compression formula, cosmology, and universal unification model"
+  }
+}
